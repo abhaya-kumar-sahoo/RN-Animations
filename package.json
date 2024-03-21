@@ -11,7 +11,11 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-ble-manager": "^11.3.2",
+    "react-native-reanimated": "^3.8.1",
+    "react-native-shadow-2": "^7.0.8",
+    "react-native-svg": "^15.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
@@ -32,5 +36,8 @@
   },
   "engines": {
     "node": ">=18"
-  }
+  },
+  "main": "index.js",
+  "author": "Abhaya <61579704+abhaya-kumar-sahoo@users.noreply.github.com>",
+  "license": "MIT"
 }
